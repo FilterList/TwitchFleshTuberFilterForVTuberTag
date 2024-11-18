@@ -1,6 +1,5 @@
-# Twitch VTuber Tag Filter
+# Twitch FleshTuber Filter for VTuber Tag
 Filters FleshTubers that misuse the VTuber tag on Twitch for uBlockOrigin  
-This should be renamed to ___TwitchFleshTuberFilterForVTuberTag___
 
 ## How to use
 1) From ```uBlockOrigin``` settings go to ```Filter lists```  
