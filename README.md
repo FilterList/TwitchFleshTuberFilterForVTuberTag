@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/FilterList/TwitchFleshTuberFilterForVTuberTag/
 ## 
 My definition of a VTuber is defined as:
 > ***Primarily*** of streams/vods/content are in some relation to protraying a PNG, live2D or 3D model of a character/identity.  
-> Simply putting up a model or image with no significance or just for the sake of of it does not constitute as one.
+> Simply putting up a model or image with no significance, or just for the sake of of it, does not constitute as one.
 
 
 ##
