@@ -1,1 +1,1 @@
-www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/tygre/i))
+www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/tygre/i))
