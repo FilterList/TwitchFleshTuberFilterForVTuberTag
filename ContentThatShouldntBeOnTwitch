@@ -1,1 +1,2 @@
+twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/HasanAbi/i))
 twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/tygre/i))
