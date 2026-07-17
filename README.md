@@ -7,7 +7,6 @@ For those who want to use VTuber tag as a way to filter browsing experience.
 2)  Scroll down to ```Import``` and copy the filter Raw URL  
 ```
 https://raw.githubusercontent.com/FilterList/TwitchFleshTuberFilterForVTuberTag/refs/heads/main/FleshTuberFilter
-https://raw.githubusercontent.com/FilterList/TwitchFleshTuberFilterForVTuberTag/refs/heads/main/ViewBottingFilter
 ```
 4) Hit ```Apply Changes``` button
 
